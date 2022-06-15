@@ -1,2 +1,4 @@
 # Python_Setup_Wizard
-Sets your computer up for python programming! Will download a variety of tools and applications for you, including AI, IDEs, and extensions
+Sets your computer up for python programming! Python Setup Wizard will download a variety of tools and applications for you, including AI, and plenty of IDEs!
+
+Python will be installed as well, just remember to click "Add to PATH" when the python installation window appears!
